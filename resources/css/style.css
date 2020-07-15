@@ -1,0 +1,57 @@
+.box {
+  height: 200px;
+  width: 200px;
+  float: left;
+  margin: 15px 15px;
+  background-color: green;
+  border: 5px solid tomato;
+}
+
+.boxOne {
+	border-radius: 10px;
+}
+
+.boxTwo {
+	border-radius: 40px;
+}
+
+.boxThree {
+	border-radius: 40px 0 60px 0;
+}
+
+.boxFour {
+	border-radius: 60% 0% 80% 0%;
+}
+
+.boxFive {
+	border-radius: 40% 40%;
+}
+
+.boxSix {
+	border-radius: 50% 0 0 50%;
+}
+
+.boxSeven {
+	border-radius: 90% 0 0 0%;
+}
+
+.boxEight {
+	border-radius: 50%;
+}
+
+.flag {
+	width: 100px;
+	height: 100px;
+	margin: 40px auto;
+	border-radius: 50%;
+	background-color: red;
+
+}
+.boxflag {
+  height: 10em;
+  width: 20rem;
+  float: left;
+  margin: 15px 15px;
+  background-color: green;
+  
+}
